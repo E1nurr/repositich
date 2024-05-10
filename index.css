@@ -1,0 +1,471 @@
+.body{
+    background-color: #080808;
+}
+.d-full-gallery {
+    background-color: #080808;
+    padding: 37px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .frame-66 {
+    margin-bottom: 69px;
+    margin-left: 245px;
+    height: 46px;
+    width: 950px;
+    position: relative;
+  }
+  .vector {
+    width: 5.05%;
+    height: 80.43%;
+  }
+  .frame-1 {
+    padding: 18px 123px 18px 153px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 91px;
+    top: 0;
+  }
+  .obrazovanie {
+    height: 94.44%;
+    width: 25.04%;
+    color: #ffffff;
+    display: flex;
+    text-transform: uppercase;
+    margin-right: 24px;
+    font-family: var(--desktop-link-regular-family);
+    font-size: var(--desktop-link-regular-size);
+    font-weight: var(--desktop-link-regular-weight);
+    line-height: var(--desktop-link-regular-line-height);
+  }
+  .meroprijatija-two {
+    margin-right: 24px;
+    width: 142px;
+    height: 17px;
+    position: relative;
+  }
+  .meroprijatija {
+    height: 100%;
+    width: 100%;
+    color: #ffffff;
+    display: flex;
+    text-transform: uppercase;
+    position: absolute;
+    left: 0;
+    top: 0.5px;
+    font-family: var(--desktop-link-regular-family);
+    font-size: var(--desktop-link-regular-size);
+    font-weight: var(--desktop-link-regular-weight);
+    line-height: var(--desktop-link-regular-line-height);
+  }
+  .v-planetarii {
+    width: 25.75%;
+    color: #ffffff;
+    align-self: stretch;
+    display: flex;
+    text-transform: uppercase;
+    margin-right: 24px;
+    font-family: var(--desktop-link-regular-family);
+    font-size: var(--desktop-link-regular-size);
+    font-weight: var(--desktop-link-regular-weight);
+    line-height: var(--desktop-link-regular-line-height);
+  }
+  .ceny {
+    height: 94.44%;
+    width: 11.19%;
+    color: #ffffff;
+    display: flex;
+    text-transform: uppercase;
+    font-family: var(--desktop-link-regular-family);
+    font-size: var(--desktop-link-regular-size);
+    font-weight: var(--desktop-link-regular-weight);
+    line-height: var(--desktop-link-regular-line-height);
+  }
+  .raspisanie {
+    height: 31.48%;
+    width: 15.49%;
+    color: #ffffff;
+    display: flex;
+    text-transform: uppercase;
+    position: absolute;
+    left: -1px;
+    top: 18.5px;
+    font-family: var(--desktop-link-regular-family);
+    font-size: var(--desktop-link-regular-size);
+    font-weight: var(--desktop-link-regular-weight);
+    line-height: var(--desktop-link-regular-line-height);
+  }
+  .kontakty {
+    height: 33.33%;
+    width: 11.92%;
+    color: #ffffff;
+    display: flex;
+    text-transform: uppercase;
+    position: absolute;
+    right: -1px;
+    top: 18px;
+    font-family: var(--desktop-link-regular-family);
+    font-size: var(--desktop-link-regular-size);
+    font-weight: var(--desktop-link-regular-weight);
+    line-height: var(--desktop-link-regular-line-height);
+  }
+  .galereja {
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 42px;
+    margin-left: 641px;
+    font-family: var(--onest-32-regular-family);
+    font-size: var(--onest-32-regular-size);
+    font-weight: var(--onest-32-regular-weight);
+    line-height: var(--onest-32-regular-line-height);
+  }
+  .relative-wrapper-six {
+    margin-bottom: 52px;
+    margin-left: 72px;
+    position: relative;
+  }
+  .group-15 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+  }
+  .flex-wrapper-one {
+    margin-bottom: 25px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .relative-wrapper-two {
+    position: relative;
+  }
+  .relative-wrapper-two:not(:last-of-type) {
+    margin-right: 32px;
+  }
+  .frame-84 {
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+  }
+  .rectangle-56 {
+    width: 522px;
+    height: 421px;
+  }
+  .rectangle-177 {
+    width: 442px;
+    height: 421px;
+    background-color: #0975C2;
+  }
+  .frame-80 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    right: 60px;
+    top: 37px;
+  }
+  .ra-diometr-kruksa {
+    height: 21px;
+    width: 352px;
+    color: #ffffff;
+    display: flex;
+    margin-bottom: 22px;
+    font-family: var(--syncopate-cyr-24-regular-family);
+    font-size: var(--syncopate-cyr-24-regular-size);
+    font-weight: var(--syncopate-cyr-24-regular-weight);
+    line-height: var(--syncopate-cyr-24-regular-line-height);
+  }
+  .jeksponat-radiometr-kruksa-predstavljaet {
+    max-width: 352px;
+    color: #ffffff;
+    font-family: var(--desktop-body-small-family);
+    font-size: var(--desktop-body-small-size);
+    font-weight: var(--desktop-body-small-weight);
+    line-height: var(--desktop-body-small-line-height);
+  }
+  .rectangle-181 {
+    width: 300px;
+    height: 216px;
+  }
+  .rectangle-180 {
+    width: 300px;
+    height: 205px;
+    background-color: #0975C2;
+  }
+  .frame-79 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 17px;
+    bottom: 21px;
+  }
+  .temperatura-zvjozd {
+    height: 44px;
+    width: 255px;
+    color: #ffffff;
+    display: flex;
+    margin-bottom: 22px;
+    font-family: var(
+      --syncopate-cyr-24-regular-line26-family
+    );
+    font-size: var(--syncopate-cyr-24-regular-line26-size);
+    font-weight: var(
+      --syncopate-cyr-24-regular-line26-weight
+    );
+    line-height: var(
+      --syncopate-cyr-24-regular-line26-line-height
+    );
+  }
+  .podavljajuschee-bol-shinstvo-zvjozd-mozhet-byt {
+    max-width: 256px;
+    color: #ffffff;
+    font-family: var(--desktop-body-small-family);
+    font-size: var(--desktop-body-small-size);
+    font-weight: var(--desktop-body-small-weight);
+    line-height: var(--desktop-body-small-line-height);
+  }
+  .relative-wrapper-three {
+    margin-bottom: 25px;
+    margin-left: 1px;
+    position: relative;
+  }
+  .rectangle-178 {
+    width: 663px;
+    height: 421px;
+  }
+  .rectangle-179 {
+    width: 633px;
+    height: 421px;
+    background-color: #0975C2;
+  }
+  .frame-78 {
+    padding: 66px 108px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    right: 1px;
+    top: 48px;
+  }
+  .go-dichnye-kol-ca-i-solnechnaja-aktivnost {
+    height: 44px;
+    width: 630px;
+    color: #ffffff;
+    display: flex;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: var(
+      --syncopate-cyr-24-regular-line26-family
+    );
+    font-size: var(--syncopate-cyr-24-regular-line26-size);
+    font-weight: var(
+      --syncopate-cyr-24-regular-line26-weight
+    );
+    line-height: var(
+      --syncopate-cyr-24-regular-line26-line-height
+    );
+  }
+  .ochen-davno-bylo-zamecheno-chto-kolichestv {
+    max-width: 495px;
+    color: #ffffff;
+    font-family: var(--desktop-body-small-family);
+    font-size: var(--desktop-body-small-size);
+    font-weight: var(--desktop-body-small-weight);
+    line-height: var(--desktop-body-small-line-height);
+  }
+  .flex-wrapper-two {
+    margin-bottom: 91px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .rectangle-183 {
+    width: 300px;
+    height: 236px;
+  }
+  .rectangle-185 {
+    width: 300px;
+    height: 185px;
+    background-color: #0975C2;
+  }
+  .frame-81 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 22px;
+    bottom: 12px;
+  }
+  .majatnik-jupitera {
+    height: 44px;
+    width: 255px;
+    color: #ffffff;
+    display: flex;
+    margin-bottom: 11px;
+    font-family: var(--syncopate-cyr-24-regular-family);
+    font-size: var(--syncopate-cyr-24-regular-size);
+    font-weight: var(--syncopate-cyr-24-regular-weight);
+    line-height: var(--syncopate-cyr-24-regular-line-height);
+  }
+  .frame-77 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    right: 56px;
+    top: 35px;
+  }
+  .ra-diometr-kruksa-two {
+    height: 22px;
+    width: 354px;
+    color: #ffffff;
+    display: flex;
+    margin-bottom: 22px;
+    font-family: var(--syncopate-cyr-24-regular-family);
+    font-size: var(--syncopate-cyr-24-regular-size);
+    font-weight: var(--syncopate-cyr-24-regular-weight);
+    line-height: var(--syncopate-cyr-24-regular-line-height);
+  }
+  .levitron-predstavljaet-soboj-parjaschij-v {
+    max-width: 354px;
+    color: #ffffff;
+    font-family: var(--desktop-body-small-family);
+    font-size: var(--desktop-body-small-size);
+    font-weight: var(--desktop-body-small-weight);
+    line-height: var(--desktop-body-small-line-height);
+  }
+  .flex-wrapper-three {
+    padding: 0 0 0 547px;
+    display: flex;
+    align-items: center;
+  }
+  .arrow-10 {
+    width: 25px;
+  }
+  .arrow-10:not(:last-of-type) {
+    margin-right: 69px;
+  }
+  .num-2 {
+    color: #ffffff;
+    margin-right: 29px;
+    font-family: var(--syncopate-18-regular-family);
+    font-size: var(--syncopate-18-regular-size);
+    font-weight: var(--syncopate-18-regular-weight);
+    line-height: var(--syncopate-18-regular-line-height);
+  }
+  .num-3 {
+    color: #ffffff;
+    margin-right: 22px;
+    font-family: var(--syncopate-18-regular-family);
+    font-size: var(--syncopate-18-regular-size);
+    font-weight: var(--syncopate-18-regular-weight);
+    line-height: var(--syncopate-18-regular-line-height);
+  }
+  .group-63 {
+    background-color: #0975C2;
+    padding: 7px 12px 7px 14px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 589px;
+    bottom: -7px;
+  }
+  .num-1 {
+    color: #ffffff;
+    flex: 1;
+    align-self: stretch;
+    font-family: var(--syncopate-18-regular-family);
+    font-size: var(--syncopate-18-regular-size);
+    font-weight: var(--syncopate-18-regular-weight);
+    line-height: var(--syncopate-18-regular-line-height);
+  }
+  .footer {
+    background: linear-gradient(
+        #0975C2,
+        #0975C2
+      ),
+      #0975C2;
+    padding: 140px 121.28px 95px 75px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .group-34 {
+    margin-right: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .o-nas {
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    font-family: var(--syncopate-cyr-20-regular-family);
+    font-size: var(--syncopate-cyr-20-regular-size);
+    font-weight: var(--syncopate-cyr-20-regular-weight);
+    line-height: var(--syncopate-cyr-20-regular-line-height);
+  }
+  .novosti {
+    color: #ffffff;
+    font-family: var(--onest-18-regular-family);
+    font-size: var(--onest-18-regular-size);
+    font-weight: var(--onest-18-regular-weight);
+    line-height: var(--onest-18-regular-line-height);
+  }
+  .novosti:not(:last-of-type) {
+    margin-bottom: 11px;
+  }
+  .group-35 {
+    margin-right: 56px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .press-sluzhba {
+    color: #ffffff;
+    margin-bottom: 11px;
+    font-family: var(--onest-18-regular-family);
+    font-size: var(--onest-18-regular-size);
+    font-weight: var(--onest-18-regular-weight);
+    line-height: var(--onest-18-regular-line-height);
+  }
+  .protivodejstvie-korrupcii {
+    color: #ffffff;
+    margin-left: 1px;
+    font-family: var(--onest-18-regular-family);
+    font-size: var(--onest-18-regular-size);
+    font-weight: var(--onest-18-regular-weight);
+    line-height: var(--onest-18-regular-line-height);
+  }
+  .protivodejstvie-korrupcii:not(:last-of-type) {
+    margin-bottom: 11px;
+  }
+  .group-36 {
+    margin-right: 205px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .group-32 {
+    margin-top: 174px;
+    display: flex;
+    align-items: center;
+  }
+  .vector-two {
+    width: 19.53%;
+    height: 96.17%;
+  }
+  .vector-two:not(:last-of-type) {
+    margin-right: 14.58px;
+  }
+  .ok-svgrepo-com {
+    width: 33.55px;
+    height: 33.55px;
+    margin-right: 14.6px;
+  }
+  .group {
+    width: 36.47px;
+    height: 36.47px;
+    margin-right: 14.58px;
+  }
